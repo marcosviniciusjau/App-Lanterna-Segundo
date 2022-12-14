@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+m7o2q7zqZozzW4mEqfbeC9w/cChOXi3uqC3TMUU9xaqol9szRCrkh0611DKZ1aaJhATriFxyn5cTnuCiugnuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcos Vinicius\\Source\\Repos\\AppLanternaSegundoEtec\\AppLanternaSegundoEtec\\AppLanternaSegundoEtec.iOS\\AppLanternaSegundoEtec.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcos Vinicius\\.nuget\\packages\\xam.plugin.battery\\4.0.1\\xam.plugin.battery.4.0.1.nupkg.sha512",
+    "C:\\Users\\Marcos Vinicius\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Marcos Vinicius\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
